@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T20:13:19.773Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="4tIw67lKLLHiZ3t0Zvs7" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-10T20:16:06.004Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NXqQbw71D3xLT4j5HHdW" version="21.6.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1246" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -449,7 +449,7 @@
         <mxCell id="8eTk4nfD-vcU2oh3kUji-74" value="多：多" style="text;strokeColor=none;align=center;fillColor=none;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;labelBackgroundColor=#00FF6E;html=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="360" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8eTk4nfD-vcU2oh3kUji-75" value="1人のユーザーが複数フォロー&lt;br&gt;1人のユーザーが複数のフォロワー&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;※多：多の関係は中間テーブル&lt;br&gt;「A - (1対多) - 中間 - (多対1) - B」&lt;br&gt;を入れるため、ER図でも同じように記載する&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;rounded=0;fontSize=14;fontFamily=Verdana;labelBorderColor=none;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8eTk4nfD-vcU2oh3kUji-75" value="1人のユーザーが複数フォロー&lt;br&gt;1人のユーザーが複数のフォロワー&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;※多：多の関係は中間テーブル&lt;br&gt;「A - (1対多) - 中間 - (多対1) - B」&lt;br&gt;を入れるため、ER図で多：多の関係性を直接的に表現することはない&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;rounded=0;fontSize=14;fontFamily=Verdana;labelBorderColor=none;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="477.5" y="560" width="295" height="80" as="geometry" />
         </mxCell>
       </root>
