@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-07-29T11:38:22.340Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="yEfL5QNpznjXYBySNRpA" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-29T11:39:26.483Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="l0MBoHV3UC6lgKil4ti5" version="21.6.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2304" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1477" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="TtT6zjxbn2nU0OrpLk1x-77" value="&lt;font color=&quot;#000000&quot;&gt;管理者&lt;/font&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;strokeColor=#788AA3;fontFamily=Helvetica;fontSize=12;fontColor=#46495D;fillColor=#B2C9AB;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-150" y="310" width="180" height="180" as="geometry">
+        <mxCell id="TtT6zjxbn2nU0OrpLk1x-77" value="&lt;font color=&quot;#000000&quot;&gt;Admin（管理者）&lt;/font&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;strokeColor=#788AA3;fontFamily=Helvetica;fontSize=12;fontColor=#46495D;fillColor=#B2C9AB;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="110" y="50" width="180" height="180" as="geometry">
             <mxRectangle x="50" y="90" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -17,7 +17,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TtT6zjxbn2nU0OrpLk1x-80" value="管理者id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontFamily=Helvetica;fontSize=12;fontColor=#46495D;startSize=23;labelBackgroundColor=none;" parent="TtT6zjxbn2nU0OrpLk1x-78" vertex="1">
+        <mxCell id="TtT6zjxbn2nU0OrpLk1x-80" value="admin_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontFamily=Helvetica;fontSize=12;fontColor=#46495D;startSize=23;labelBackgroundColor=none;" parent="TtT6zjxbn2nU0OrpLk1x-78" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -30,7 +30,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TtT6zjxbn2nU0OrpLk1x-83" value="メールアドレス" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontFamily=Helvetica;fontSize=12;fontColor=#46495D;startSize=23;labelBackgroundColor=none;" parent="TtT6zjxbn2nU0OrpLk1x-81" vertex="1">
+        <mxCell id="TtT6zjxbn2nU0OrpLk1x-83" value="email" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontFamily=Helvetica;fontSize=12;fontColor=#46495D;startSize=23;labelBackgroundColor=none;" parent="TtT6zjxbn2nU0OrpLk1x-81" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -43,7 +43,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TtT6zjxbn2nU0OrpLk1x-86" value="パスワード" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontFamily=Helvetica;fontSize=12;fontColor=#46495D;startSize=23;labelBackgroundColor=none;" parent="TtT6zjxbn2nU0OrpLk1x-84" vertex="1">
+        <mxCell id="TtT6zjxbn2nU0OrpLk1x-86" value="password" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontFamily=Helvetica;fontSize=12;fontColor=#46495D;startSize=23;labelBackgroundColor=none;" parent="TtT6zjxbn2nU0OrpLk1x-84" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -56,7 +56,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TtT6zjxbn2nU0OrpLk1x-89" value="作成日" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontFamily=Helvetica;fontSize=12;fontColor=#46495D;startSize=23;labelBackgroundColor=none;" parent="TtT6zjxbn2nU0OrpLk1x-87" vertex="1">
+        <mxCell id="TtT6zjxbn2nU0OrpLk1x-89" value="created_at" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontFamily=Helvetica;fontSize=12;fontColor=#46495D;startSize=23;labelBackgroundColor=none;" parent="TtT6zjxbn2nU0OrpLk1x-87" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -69,7 +69,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TtT6zjxbn2nU0OrpLk1x-182" value="更新日" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontFamily=Helvetica;fontSize=12;fontColor=#46495D;startSize=23;labelBackgroundColor=none;" parent="TtT6zjxbn2nU0OrpLk1x-180" vertex="1">
+        <mxCell id="TtT6zjxbn2nU0OrpLk1x-182" value="updated_at" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontFamily=Helvetica;fontSize=12;fontColor=#46495D;startSize=23;labelBackgroundColor=none;" parent="TtT6zjxbn2nU0OrpLk1x-180" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
