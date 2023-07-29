@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-29T09:35:45.542Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="n-YaAk5ukRrsU3mOjD9S" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-29T09:38:53.994Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="AemdtD_ZbVL5jZSH396-" version="21.6.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1961" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1300,7 +1300,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AqgVQKVdH_DSCZpF_KZi-326" value="User_rooms" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;strokeColor=#788AA3;fontFamily=Helvetica;fontSize=12;fillColor=#B2C9AB;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="AqgVQKVdH_DSCZpF_KZi-326" value="Notification（通知）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;strokeColor=#788AA3;fontFamily=Helvetica;fontSize=12;fillColor=#B2C9AB;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="870" y="30" width="180" height="180.00000000000023" as="geometry" />
         </mxCell>
         <mxCell id="AqgVQKVdH_DSCZpF_KZi-327" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;strokeColor=#788AA3;fontFamily=Helvetica;fontSize=12;fontColor=#46495D;html=1;labelBackgroundColor=none;" vertex="1" parent="AqgVQKVdH_DSCZpF_KZi-326">
@@ -1311,7 +1311,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AqgVQKVdH_DSCZpF_KZi-329" value="user_room_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontFamily=Helvetica;fontSize=12;fontColor=#46495D;startSize=23;labelBackgroundColor=none;" vertex="1" parent="AqgVQKVdH_DSCZpF_KZi-327">
+        <mxCell id="AqgVQKVdH_DSCZpF_KZi-329" value="notification_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontFamily=Helvetica;fontSize=12;fontColor=#46495D;startSize=23;labelBackgroundColor=none;" vertex="1" parent="AqgVQKVdH_DSCZpF_KZi-327">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
