@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T15:24:34.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="hu9xNYYDAPiu6nLy4H1P" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-07T15:26:42.306Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="1M4OH3TjUTkuNKXUh5-t" version="21.7.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2048" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,6 +62,9 @@
         </mxCell>
         <mxCell id="3JXQEeiKZEx1apxpvxSe-42" value="192.168.32.0/19" style="text;strokeColor=#6c8ebf;align=center;fillColor=#dae8fc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3JXQEeiKZEx1apxpvxSe-4">
           <mxGeometry x="190" y="310" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3JXQEeiKZEx1apxpvxSe-44" value="two_seeds-vpc-01" style="text;strokeColor=#82b366;align=center;fillColor=#d5e8d4;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3JXQEeiKZEx1apxpvxSe-4">
+          <mxGeometry x="60" y="10" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3JXQEeiKZEx1apxpvxSe-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.524;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=3;" edge="1" parent="3JXQEeiKZEx1apxpvxSe-0" source="LJqXa6h_QSDC_kOxmu9_-1" target="LJqXa6h_QSDC_kOxmu9_-0">
           <mxGeometry relative="1" as="geometry" />
