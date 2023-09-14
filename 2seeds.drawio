@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-14T15:46:11.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="USvK1_9iyTSMD-1kRrEL" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-14T15:46:37.089Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="5KNElbi9krMPRJUH4xOD" version="21.7.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2862" dy="2311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2353" dy="2025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -1240,7 +1240,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GH-rgcXHdw-grydiUsWg-129" value="gem: acts-as-taggable-on" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="74" y="570" width="180" height="30" as="geometry" />
+          <mxGeometry x="60" y="570" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GH-rgcXHdw-grydiUsWg-130" value="&lt;font color=&quot;#000000&quot;&gt;Impressions&lt;br&gt;（gem: impressionist）&lt;/font&gt;" style="shape=table;startSize=25;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fontFamily=Helvetica;fontSize=12;fillColor=#f8cecc;labelBackgroundColor=none;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="25" width="180" height="480" as="geometry" />
